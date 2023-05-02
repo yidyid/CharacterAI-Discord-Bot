@@ -1,9 +1,9 @@
 {
-  "discord_bot_token": "_YOUR_DISCORD_TOKEN_",
-  "char_ai_user_token": "_YOUR_USER_TOKEN_",
+  "discord_bot_token": "MTA4MDQ1MTY5ODYwNDExMzk3MA.GRf4yl.bdEaYrMZrc5GhD17nbWq5fAKK4wbimnKm7NLng",
+  "char_ai_user_token": "ffcd4bf3a0787a1e355ffa0f4233f404a5be281b",
 
   "discord_bot_role": "Manage Character",
-  "discord_bot_prefixes": [ ".ai ", "!!" ],
+  "discord_bot_prefixes": [ "yuna ", "y." ],
   "discord_private_category_name": "CAI PRIVATE CHANNELS",
 
   "default_audience_mode": 0,
@@ -20,5 +20,5 @@
   "buttons_remove_delay": 90,
 
   "auto_setup": false,
-  "auto_char_id": "_CHARACTER_ID_"
+  "auto_char_id": "i-m4ELZUtqsXECTFR-3IqKj5MlN7dKK6672LUuQvwo0"
 }
